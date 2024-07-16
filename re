@@ -9,7 +9,6 @@ int main() {
 
     result = square(num);
     printf("Square of %.2lf = %.2lf", num, result);
-
     return 0;
 }
 
